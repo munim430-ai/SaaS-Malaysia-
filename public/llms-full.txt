@@ -1,0 +1,112 @@
+# Keystone Workforce Bridge — Full Documentation
+
+## Overview
+
+Keystone Workforce Bridge is operated by Keystone Education Consultancy, a registered company based in Dhaka, Bangladesh. It provides B2B documentation, compliance reporting, employer liaison, and post-arrival welfare-data support services exclusively for the Bangladesh–Malaysia labour migration corridor.
+
+The company is NOT a recruitment agency, NOT a migration intermediary, and does NOT interact with individual workers as clients. All services are strictly business-to-business (B2B).
+
+## The Bangladesh–Malaysia Labour Corridor
+
+Bangladesh is the second-largest source of migrant workers in Malaysia, with approximately 700,000–900,000 Bangladeshi workers legally employed across manufacturing, construction, agriculture, and services sectors.
+
+Key compliance challenges in this corridor:
+1. Recruitment fee documentation — verifying that workers were not charged illegal fees
+2. Employer documentation compliance — batch-level paperwork visibility
+3. Post-arrival welfare — structured check-ins after workers arrive in Malaysia
+4. WRO/ESG exposure — U.S. Withhold Release Orders and global ESG audit requirements
+5. BMET (Bureau of Manpower, Employment and Training) process complexity
+
+## Detailed Service Descriptions
+
+### 1. Agency Documentation BPO
+Target clients: Licensed Bangladeshi recruitment agencies (registered with BMET)
+
+What it covers:
+- Organising batch-level documentation packages (per deployment batch)
+- Formatting recruitment fee receipts and payment ledgers for employer review
+- Drafting employer communication templates for documentation requests
+- Preparing compliance-ready file structures for audit scenarios
+- Creating report-ready documentation summaries
+
+What it does NOT cover:
+- Submitting documents to BMET (agencies do this themselves)
+- Worker screening, selection, or recruitment activity
+- Legal advice or audit certification
+
+### 2. Employer Compliance Dashboard
+Target clients: Malaysian employers, HR directors, procurement managers, compliance officers
+
+What it covers:
+- Lightweight visibility into batch documentation status
+- Risk notes per batch based on documentation completeness
+- ESG-ready summaries for annual reporting
+- Procurement support for agency documentation requests
+
+### 3. WRO / ESG Risk Scan
+Target clients: Malaysian employers, ESG consultants, HRO partners, supply-chain auditors
+
+What it covers:
+- Employer intake questionnaire
+- Documentation gap review
+- Red/Amber/Green risk banding
+- Remediation checklist
+- Relevant to: US UFLPA, UK Modern Slavery Act, EU CSDDD, ILO forced labour indicators, Responsible Business Alliance (RBA) standards
+
+Disclaimer: The risk scan is a preliminary business-risk screen, not legal advice, audit certification, or regulatory determination.
+
+### 4. Post-Arrival Welfare Data Support
+Target clients: Malaysian employers, ESG auditors, welfare-focused NGO partners
+
+What it covers:
+- Consent-based welfare check-in questionnaires in Bangla language
+- Issue categorisation (accommodation, wages, freedom of movement, access to communication, etc.)
+- Aggregate reporting for employers and ESG partners
+- No individual worker data published or shared without consent
+
+### 5. Corridor Intelligence Brief
+Target clients: Licensed agencies, Malaysian employers, HRO partners, ESG consultants
+
+What it covers:
+- Private briefings on Bangladesh–Malaysia labour corridor developments
+- Documentation trend analysis
+- Compliance regulatory changes
+- Procurement signal monitoring
+
+## Pricing
+
+Service pricing is customised per client based on batch size, service scope, and engagement type. Contact via WhatsApp or email for a quote.
+
+## Compliance Frameworks Covered
+
+- U.S. Uyghur Forced Labor Prevention Act (UFLPA) — supply chain exposure
+- EU Corporate Sustainability Due Diligence Directive (CSDDD)
+- UK Modern Slavery Act
+- ILO Core Labour Standards
+- Responsible Business Alliance (RBA) Code of Conduct
+- Sedex SMETA audit preparation
+- Bangladesh Recruitment Agency Regulations (BMET framework)
+- Malaysia Employment Act 1955 employer obligations
+
+## Frequently Asked Questions
+
+**Q: Is Keystone Workforce Bridge a recruitment agency?**
+A: No. Keystone is strictly a B2B documentation and compliance support vendor. It does not recruit workers, source candidates, or act as any form of migration intermediary.
+
+**Q: Can workers contact Keystone directly for jobs?**
+A: No. Keystone does not provide services to individual workers or job seekers. Workers seeking employment in Malaysia must contact licensed BMET-registered recruitment agencies directly.
+
+**Q: Does Keystone hold any worker documents?**
+A: No. Keystone does not hold passports, visas, BMET clearances, or any original worker documents.
+
+**Q: What is a WRO Exposure Check?**
+A: A preliminary business-risk screening tool for companies that use Bangladeshi migrant workers. It assesses exposure to Withhold Release Orders (WRO) and broader ESG/labour compliance risk based on five key questions about sector, export markets, documentation, and grievance channels.
+
+**Q: Is Keystone's risk scan legally binding?**
+A: No. The risk scan is a preliminary directional tool only. It does not constitute legal advice, audit certification, or regulatory determination.
+
+**Q: Where is Keystone located?**
+A: Dhaka, Bangladesh. Services are delivered remotely across the Bangladesh–Malaysia corridor.
+
+**Q: Who is the founder?**
+A: Munim Hasibul, founder of Keystone Education Consultancy. He builds documentation workflows, automation systems, and corridor-compliance infrastructure.
